@@ -1,12 +1,8 @@
 # Hi there, I'm Ahmed Khaled 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahklsfg&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
 <br/>
 
-An analytical **Cybersecurity Engineer** and **Computer Engineering Undergraduate** at Alamein International University. My expertise spans resilient cloud infrastructure, applied cryptography, bare-metal embedded firmware, and malware analysis.
+An analytical **Cybersecurity Engineer** and **Computer Engineering Undergraduate** at Alamein International University. My technical foundation spans advanced cryptographic research, AWS cloud security, malware analysis and reverse engineering, and robust embedded/full-stack systems.
 
 - 🎓 **Undergraduate**: Computer Engineering at Alamein International University (Class of 2028).
 - ☁️ **Cloud Security**: AWS Security Cloud Computing Trainee (DEPI) & AWS Academy Graduate.
